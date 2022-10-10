@@ -7,3 +7,4 @@
 6. cp demo.txt ./prova
 6. cp demo.txt ../demo2.txt
 6. grep -r línia
+7. cat demo.txt | grep línia.*blanc
