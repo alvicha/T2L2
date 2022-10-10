@@ -2,3 +2,4 @@
 2. cd T2L2
 3. nano demo.txt
 4. cat demo.txt | grep esta
+5. cat demo.txt | grep -i línia
