@@ -9,3 +9,4 @@
 6. grep -r línia
 7. cat demo.txt | grep línia.*blanc
 8. cat demo.txt | grep Línia.*Totes 
+9. grep -c línia demo.txt
