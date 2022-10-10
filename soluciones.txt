@@ -3,3 +3,7 @@
 3. nano demo.txt
 4. cat demo.txt | grep esta
 5. cat demo.txt | grep -i línia
+6. mkdir prova
+6. cp demo.txt ./prova
+6. cp demo.txt ../demo2.txt
+6. grep -r línia
